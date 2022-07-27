@@ -49,6 +49,8 @@ https://user-images.githubusercontent.com/81494917/180806903-67314d0c-cfa0-4cf2-
 * Arduino Board.
 * breadboard.
 * Stepper moter
+* wire
+* Potentiometer
 
 
 **CODE**
@@ -97,6 +99,10 @@ void loop() {
 
 
 
+
+
+
+https://user-images.githubusercontent.com/81494917/181346538-79ad89cf-1cb5-4e7b-b073-fd6d31b397b2.mp4
 
 
 
@@ -152,3 +158,6 @@ void loop()
     delay(30); // Wait for 30 millisecond(s)
   }
 }
+
+https://user-images.githubusercontent.com/81494917/181346754-14374d65-ded0-42b6-847a-d0e4373e0f7e.mp4
+
